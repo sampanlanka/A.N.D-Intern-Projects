@@ -17,7 +17,7 @@ This project tackles the crucial task of predicting heart disease risk. By lever
 The heart disease data is sourced from the UCI Machine Learning Repository.
 
 ### Model Performance
-(Include metrics like accuracy, precision, recall, or F1-score, if applicable)
+The accuracy of the model is around 87%.
 
 ## Used Car Price Prediction (Minor Project)
 
@@ -25,13 +25,15 @@ The heart disease data is sourced from the UCI Machine Learning Repository.
 This project focuses on predicting the fair market value of used cars. By analyzing factors like make, model, year, mileage, condition, features, and market trends, we aim to build a model that can estimate prices accurately. This can benefit both buyers and sellers when navigating the used car market.
 
 ### Technologies
-(List the specific programming languages, frameworks, and libraries you've employed)
+scikit-learn (for tasks like regression and data preprocessing)
+TensorFlow or PyTorch (if you're exploring deep learning approaches, such as convolutional neural networks for image-based features)
+Pandas and Matplotlib (for data analysis and visualization)
 
 ### Dataset
 The used car data is sourced from Kaggle.
 
 ### Model Performance
-(Include metrics like mean squared error or R-squared, if applicable)
+The accuracy of the model is around 70%.
 
 ## Table of Contents
 
